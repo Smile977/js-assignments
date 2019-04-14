@@ -29,7 +29,7 @@
  *  21 => 'Fizz'
  *
  */
-function getFizzBuzz(num) {
+function getFizzBuzz(num) {//
     throw new Error('Not implemented');
 }
 
